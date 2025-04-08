@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: darkgreen;
+}
+
+.cards {
+    height: auto;
+    width: auto;
+    background-color: black;
 }
